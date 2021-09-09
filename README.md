@@ -7,5 +7,3 @@ Werstan development
 Compatibility : ESX 1.1 / 1.2 / LEGACY
 
 Movie : https://streamable.com/l7yrbr
-
-Discord : https://discord.gg/yQM8Tsh
